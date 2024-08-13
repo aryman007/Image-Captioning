@@ -23,17 +23,14 @@
 - [5. References](#5-references)
 
 ## 1. Introduction
-
-This repository hosts the course project for the "LT2326: Machine learning for
-statistical NLP" Course. I used a transformer-based model to generate a caption
+I used a transformer-based model to generate a caption
 for images in this project. This task is known as the Image Captioning task.
 
 The document will first show how to run the code; then, it will discuss the
 model, its hyperparameters, loss, and performance metrics.  At the end of this
 document, I will discuss the model performance.
 
-This project is based on CPTR [[1]](#1) with some modifications as discussed
-below. The project uses PyTorch as a deep learning framework.
+This project uses PyTorch as a deep learning framework.
 
 ## 2. Run
 
